@@ -37,4 +37,7 @@ This project is develop by the projectee and their details will be shown by proj
 
 
 
-
+![Quotation](https://github.com/rahulkundu01/AutomobileProject/blob/master/image12.JPG)
+![Enquiry](https://github.com/rahulkundu01/AutomobileProject/blob/master/image13.JPG)
+![Booking](https://github.com/rahulkundu01/AutomobileProject/blob/master/image14.JPG)
+![Stock](https://github.com/rahulkundu01/AutomobileProject/blob/master/image15.JPG)
